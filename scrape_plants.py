@@ -1,10 +1,3 @@
-
----
-
-## **3. Python Code: `scrape_plants.py`**  
-This script **scrapes plant distribution data from Wikipedia** and saves it to a CSV file.  
-
-```python
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
